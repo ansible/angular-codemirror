@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/leigh-johnson/angular-codemirror#readme",
   "dependencies": {
-    "angular": "1.4.7",
+    "angular": "1.4.14",
     "codemirror": "^5.17.0",
     "jquery": "*"
   },
