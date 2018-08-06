@@ -1,6 +1,6 @@
 {
   "name": "angular-codemirror",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "AngularCodeMirror",
   "main": "index.js",
   "scripts": {
